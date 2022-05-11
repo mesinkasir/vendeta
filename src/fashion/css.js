@@ -1,0 +1,21 @@
+document.write(`
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+html,body,nav,h1,h2,h3,p {
+  font-family: 'Space Mono', monospace;
+color:#524e4e;
+background-color: black;
+}
+}
+a:link {
+	color:#64090e;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#64090e;
+	text-decoration: none;
+}
+
+</style>
+`);
