@@ -1,3 +1,3 @@
-# vitejs-vite-nv5rfc
+# V for Vendeta Vite feat LIT
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-nv5rfc)
+Edit on StackBlitz ⚡️
