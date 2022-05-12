@@ -9,3 +9,21 @@ Documentation : [https://www.hockeycomputindo.com/2022/05/v-for-vendetta-web-tem
 Test Demo : [https://vendeta.pages.dev →](https://vendeta.pages.dev/)
 
 Demo Neon Mode : [https://vendeta.vercel.app →](https://vendeta.vercel.app/)
+
+---
+
+![Starter landing page project vite feat lit element](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkts70RuL0wdCCVypYqSZYkMBkqwhj5y8fnIG7_CFKQNQcdKb0ap7ImkVTpnNhKHoUbZLFwBeLYWX7pUFcgdkCF0CMwN4g6pAUqli0cK0nEsFcvFv-af3Xs7fdjQUVTfvo4azaaCljqQG5pCplm3uY1LWIpsRZEIoz9Y8_LbYCeR3bbnB-PCZ-vtLBxw/s1349/free%20download%20source%20code%20vite%20lit%20element%20starter%20landing%20page%20(2).png>)
+
+Landing Page V for Vendeta
+
+![Starter landing page project vite feat lit element](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71e9Hk6Dyb9AGdTQKt1hczAQerxyM1bEQ2jFYKTRQo7XPi9GU2by1PGYbNJiWmhR0pEs5Yuan2wwunjcUAADoHPXc-Br7HacRZz-GyTbVAnvXm2cJrIkKxL3Ohk0VtnT1fesr_dclXc9yxN6FwYICsvFC89V3nv4u29s-bxIrS6vnruHzXw-HqttNJQ/s663/free%20download%20source%20code%20vite%20lit%20element%20starter%20landing%20page%20(3).png>)
+
+Mobile display
+
+---
+
+Documentation : [https://www.hockeycomputindo.com/2022/05/v-for-vendetta-web-template-free.html →](https://www.hockeycomputindo.com/2022/05/v-for-vendetta-web-template-free.html)
+
+Test Demo : [https://vendeta.pages.dev →](https://vendeta.pages.dev/)
+
+Demo Neon Mode : [https://vendeta.vercel.app →](https://vendeta.vercel.app/)
