@@ -28,7 +28,7 @@ export class theHeader extends LitElement {
       (this.content =
         'this project present by axcora technology on https://website.axcora.com'),
       (this.content1 =
-        'you can download it on github or clone fork it , need to install node js , then you can use terminal and run npm install && npm run dev , so why we need build modern website with vite lit ?? of course because very slim and blast fast for help your website to be powerfull.');
+        'you can download it on github or clone fork it , need to install node js , then you can use terminal and run npm install && npm run dev , this time for update and upgrade your website using vite feat lit for best solution website peform.');
     this.cover = 'https://wallpapercave.com/uwp/uwp108327.gif';
   }
 
