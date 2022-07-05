@@ -1,5 +1,5 @@
 import { html, css, LitElement } from 'lit';
-import '../style.css'
+import '../style.css';
 export class theAbout extends LitElement {
   static styles = css`
   a:link {

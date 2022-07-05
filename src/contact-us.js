@@ -1,5 +1,5 @@
 import { html, css, LitElement } from 'lit';
-import '../style.css'
+import '../style.css';
 export class contactUs extends LitElement {
   static styles = css`
   a:link {
@@ -31,7 +31,8 @@ export class contactUs extends LitElement {
   render() {
     return html`
     <h1><a href="/">${this.title}</a></h1>
-    <h3>${this.desc}</h3>
+    <h3>${this.desc}</h3>    
+  <a href="https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll">Hire Me  →</a>
 <p>${this.wa}</p>
 <p>${this.email}</p>
     `;
